@@ -1,0 +1,5 @@
+Scalable- like an application program would be scalable if it is moved from smaller to larger operating system 
+then it will tak efull advantage of larger operating system in terms of performance. 
+
+Operating System- it is a program  that after loaded into the computer by boot program manages 
+all the other application programm in computer.
